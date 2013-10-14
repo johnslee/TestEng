@@ -1,0 +1,6 @@
+var configObject = {"configrun": [
+        {"testName": "Get User ID", "execute": "1"},
+        {"testName": "Get Location", "execute": "1"},
+        {"testName": "Test 3", "execute": "1"}
+    ]
+};
